@@ -1,0 +1,12 @@
+body {
+    height:100%;
+    width:100%;
+    position:relative;
+    margin:0;
+}
+
+#defaultCanvas0 {
+    position:absolute;
+    top:0;
+    left:0;
+}

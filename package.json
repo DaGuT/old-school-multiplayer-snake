@@ -1,0 +1,15 @@
+{
+  "name": "snake",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "socket.io": "^2.1.1",
+	"express": "latest",
+	"http": "latest",
+	"https": "latest"
+  },
+  "scripts": {
+	"start": "node server.js"
+  }
+}
